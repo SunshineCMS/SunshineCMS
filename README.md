@@ -1,2 +1,5 @@
 # SunshineCMS
+
 SunshineCMS is free and open source PHP content management system.
+
+**SunshineCMS is currently under development.**
